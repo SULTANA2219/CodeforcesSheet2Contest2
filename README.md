@@ -13,15 +13,15 @@
 | | | |
 | pCC | Finding Minimums | AC |
 | | | |
-| pCD | Range Sum | AC |
+| pCD | Range Sum | Tried |
 | | | |
-| pCE | Hady Rides the Train | AC |
+| pCE | Hady Rides the Train | Tried |
 | | | |
 | pCF | Break Number | AC |
 | | | |
 | pCG | Construct the Sum | AC |
 | | | |
-| pCH | Simple Mod | AC |
+| pCH | Simple Mod | Tried |
 | | | |
 | pSJ | Primes from 1 to n | AC |
 | | | |
