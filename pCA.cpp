@@ -7,7 +7,7 @@
 * Codeforces Profile: https://codeforces.com/profile/hscsultana22
 * Date: 2025-12-06
 * Statement: 
-https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
+https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/A
 */
 
 
